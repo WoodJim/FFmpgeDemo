@@ -1,0 +1,12 @@
+libavcodec.a filter=lfs diff=lfs merge=lfs -text
+libavfilter.a filter=lfs diff=lfs merge=lfs -text
+libavformat.a filter=lfs diff=lfs merge=lfs -text
+libavutil.a filter=lfs diff=lfs merge=lfs -text
+libswresample.a filter=lfs diff=lfs merge=lfs -text
+libswscale.a filter=lfs diff=lfs merge=lfs -text
+libavcodec.so filter=lfs diff=lfs merge=lfs -text
+libavfilter.so filter=lfs diff=lfs merge=lfs -text
+libavformat.so filter=lfs diff=lfs merge=lfs -text
+libavutil.so filter=lfs diff=lfs merge=lfs -text
+libswresample.so filter=lfs diff=lfs merge=lfs -text
+libswscale.so filter=lfs diff=lfs merge=lfs -text
